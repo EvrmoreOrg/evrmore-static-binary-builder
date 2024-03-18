@@ -4,7 +4,7 @@
 
 ESBB is a bash script which can be used to build statically-linked binary executables of the Evrmore Core node software for any of the supported operating systems and CPU families.
 
-ESBB uses the Evrmore Core C++ code to compile Core amd all dependencies from the source code in the Github EvrmoreOrg/Evrmore repository. Moreover, ESBB accomplishes its tasks by using the Github-Actions scripts located in the same repository at https:/github.com/EvrmoreOrg/Evrmore/tree/develop/.github/scripts
+ESBB uses the Evrmore Core C++ code to compile Core and all dependencies from the source code in the Github EvrmoreOrg/Evrmore repository. Moreover, ESBB accomplishes its tasks by using the Github-Actions scripts located in the same repository at https:/github.com/EvrmoreOrg/Evrmore/tree/develop/.github/scripts
 
 
 ## Installing the Evrmore Static Binary Builder
